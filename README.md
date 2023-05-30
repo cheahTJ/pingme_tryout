@@ -1,1 +1,1 @@
-# NUSCopilot
+# Football Fanatic Tryout 
